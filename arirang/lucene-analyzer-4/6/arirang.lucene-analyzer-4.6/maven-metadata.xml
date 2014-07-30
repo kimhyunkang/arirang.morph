@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>arirang.lucene-analyzer-4.6</groupId>
+  <artifactId>arirang.lucene-analyzer-4.6</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140730022612</lastUpdated>
+  </versioning>
+</metadata>
